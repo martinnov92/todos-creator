@@ -1,0 +1,24 @@
+{
+  "name": "todos-creator",
+  "version": "0.0.1",
+  "description": "Create issues from your TODOs in your code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/martinnov92/node-todos-creator.git"
+  },
+  "keywords": [
+    "node",
+    "todos",
+    "automatization"
+  ],
+  "author": "Martin Novák",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/martinnov92/node-todos-creator/issues"
+  },
+  "homepage": "https://gitlab.com/martinnov92/node-todos-creator#readme"
+}
