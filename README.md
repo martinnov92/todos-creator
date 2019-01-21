@@ -2,6 +2,8 @@
 
 Use _todos.spec.js_ config file, if you need more control. This file must be placed in root folder.
 
+![](https://raw.githubusercontent.com/martinnov92/todos-creator/master/public/todos-creator.gif)
+
 ### Config
 ```js
 module.exports = {
