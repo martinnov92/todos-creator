@@ -1,24 +1,33 @@
 {
   "name": "todos-creator",
   "version": "0.0.1",
-  "description": "Create issues from your TODOs in your code",
+  "private": false,
+  "description": "Search for TODO in your code to create issues.",
   "main": "index.js",
-  "scripts": {
-    "test": "jest"
+  "bin": {
+    "create-todos": "index.js"
+  },
+  "engineStrict": true,
+  "engines": {
+    "node": ">=8.6.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/martinnov92/node-todos-creator.git"
+    "url": "git+https://github.com/martinnov92/todos-creator.git"
   },
   "keywords": [
+    "cli",
     "node",
+    "todo",
     "todos",
+    "github",
+    "gitlab",
     "automatization"
   ],
-  "author": "Martin Novák",
+  "author": "Martin Novák <martinnovak@outlook.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/martinnov92/node-todos-creator/issues"
+    "url": "https://github.com/martinnov92/todos-creator/issues"
   },
-  "homepage": "https://gitlab.com/martinnov92/node-todos-creator#readme"
+  "homepage": "https://github.com/martinnov92/todos-creator"
 }
