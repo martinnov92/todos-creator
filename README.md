@@ -1,6 +1,6 @@
 # Todos creator
 
-This package is for automatic creating of issues. Simply run one command and from your _`// TODO: has to be done!`_ comment can be created issue on GitHub or GitLab, or you can provide your own methods for issue creation if you use another tracking provider.
+This package is for automatic creating of issues. Simply run `create-todos` and from your _`// TODO: has to be done!`_ comment can be created issue on GitHub or GitLab, or you can provide your own methods for issue creation if you use another tracking provider.
 
 There are two options how to set this up:
 
