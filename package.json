@@ -1,6 +1,6 @@
 {
   "name": "todos-creator",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": false,
   "description": "Search for TODO in your code to create issues.",
   "main": "index.js",
